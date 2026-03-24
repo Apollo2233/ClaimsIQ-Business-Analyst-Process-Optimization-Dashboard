@@ -32,7 +32,7 @@ The goal of this project is to demonstrate real-world Business Analyst capabilit
 ## 📸 Dashboard Preview
 
 ### 🧭 Overview
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](./screenshots/dashboard-overview.png)
 
 This view provides a high-level summary of claims processing performance.  
 It includes key metrics, insight generation, and a consolidated view of operational health, allowing stakeholders to quickly assess system performance.
@@ -40,7 +40,7 @@ It includes key metrics, insight generation, and a consolidated view of operatio
 ---
 
 ### 💡 Insights & KPIs
-![KPIs](screenshots/kpi-insight-summary.png)
+![KPIs](./screenshots/kpi-insight-summary.png)
 
 This section highlights critical performance indicators such as total claims, average processing time, denial rate, and unique error types.  
 The insight banner translates raw data into actionable business intelligence, identifying key contributors to inefficiencies.
@@ -48,7 +48,7 @@ The insight banner translates raw data into actionable business intelligence, id
 ---
 
 ### 📊 Error Analysis
-![Errors](screenshots/error-analysis.png)
+![Errors](./screenshots/error-analysis.png)
 
 The error analysis module identifies the most frequent claim processing issues and their impact.  
 This supports root cause analysis by highlighting patterns such as authorization issues and missing information, enabling targeted process improvements.
@@ -56,14 +56,14 @@ This supports root cause analysis by highlighting patterns such as authorization
 ---
 
 ### 🥧 Claim Distribution
-![Distribution](screenshots/claim-volume-distribution.png)
+![Distribution](./screenshots/claim-volume-distribution.png)
 
 This visualization breaks down claim volume by type (HCFA vs UB), helping stakeholders understand workload distribution and identify potential imbalances in processing demand.
 
 ---
 
 ### 📉 Status Breakdown
-![Status](screenshots/claims-status-breakdown.png)
+![Status](./screenshots/claims-status-breakdown.png)
 
 This section tracks claim outcomes across Approved, Denied, and Pending statuses.  
 It provides visibility into operational effectiveness and helps identify areas where claim success rates can be improved.
@@ -71,7 +71,7 @@ It provides visibility into operational effectiveness and helps identify areas w
 ---
 
 ### 🎛️ Filtered View
-![Filters](screenshots/filtered-view.png)
+![Filters](./screenshots/filtered-view.png)
 
 The dashboard includes interactive filters that allow users to dynamically adjust the dataset.  
 This enables deeper analysis by isolating specific claim types, statuses, or time ranges—simulating real-world Business Analyst workflows.
