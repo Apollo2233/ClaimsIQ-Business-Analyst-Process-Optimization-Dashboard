@@ -39,14 +39,6 @@ It includes key metrics, insight generation, and a consolidated view of operatio
 
 ---
 
-### 💡 Insights & KPIs
-![KPIs](./screenshots/kpi-insight-summary.png)
-
-This section highlights critical performance indicators such as total claims, average processing time, denial rate, and unique error types.  
-The insight banner translates raw data into actionable business intelligence, identifying key contributors to inefficiencies.
-
----
-
 ### 📊 Error Analysis
 ![Errors](./screenshots/error-analysis.png)
 
